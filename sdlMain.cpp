@@ -1,3 +1,7 @@
+/* used this tutorial to create this project: 
+https://www.youtube.com/watch?v=DeKfZhwyFO4
+*/
+
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
 #include <iostream>
